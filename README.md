@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Alireza 👋
 
-<!--
-**AShBackend/AShBackend** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Python and Django backend developer, and I plan to become a full-stack developer in the future.🔥
 
-Here are some ideas to get you started:
+I build web applications and REST APIs using Django and Django REST Framework.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+
+- Python🐍
+- Django
+- Django REST Framework
+- HTML🌐
+- CSS🎨
+- Bootstrap
+- JavaScript
+- Git & GitHub😺
+
+## 🚀 Selected Projects
+
+### 🎵 Music Platform
+A music platform built with Django and Django REST Framework.
+
+### 🩺 Medbook
+A medical appointment booking platform built with Django.
+
+## 📚 Currently Learning
+
+- Postgre SQL
+- Docker⛵
+- Redis & Celery
+- Nginx
+- Bootstrap (all)
+- Javascript (all)
+- React⚛️
