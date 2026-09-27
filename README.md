@@ -17,11 +17,16 @@ I build web applications and REST APIs using Django and Django REST Framework.
 
 ## 🚀 Selected Projects
 
-### 🎵 Music Platform
-A music platform built with Django and Django REST Framework.
-
 ### 🩺 Medbook
 A medical appointment booking platform built with Django.
+<h3 align="center">
+  <a href="https://meedbook.site">
+    🌐 Live Demo
+  </a>
+</h3>
+
+### 🎵 Cukur Rap
+A music platform built with Django and Django REST Framework.
 
 ## 📚 Currently Learning
 
